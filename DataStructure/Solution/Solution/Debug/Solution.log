@@ -1,0 +1,9 @@
+﻿  main.cpp
+h:\c++\solution\solution\main.cpp(92): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\solution\solution\main.cpp(168): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\solution\solution\main.cpp(219): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\solution\solution\main.cpp(307): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\solution\solution\main.cpp(309): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\solution\solution\main.cpp(324): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\solution\solution\main.cpp(422): warning C4018: “<”: 有符号/无符号不匹配
+  Solution.vcxproj -> H:\C++\Solution\Debug\Solution.exe
