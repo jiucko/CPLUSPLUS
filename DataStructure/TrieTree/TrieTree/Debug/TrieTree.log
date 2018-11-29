@@ -1,0 +1,4 @@
+﻿  TrieTree.cpp
+h:\c++\trietree\trietree\trietree.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\trietree\trietree\trietree.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+  TrieTree.vcxproj -> H:\C++\TrieTree\Debug\TrieTree.exe
