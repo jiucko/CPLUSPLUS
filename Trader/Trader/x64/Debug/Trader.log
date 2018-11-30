@@ -1,0 +1,33 @@
+﻿  Moc'ing Trader.h...
+  CustomMdSpi.cpp
+  main.cpp
+  Trader.cpp
+  moc_Trader.cpp
+h:\c++\cplusplus\trader\trader\custommdspi.h(8): error C2061: 语法错误: 标识符“Trader” (编译源文件 CustomMdSpi.cpp)
+h:\c++\cplusplus\trader\trader\custommdspi.h(15): error C2143: 语法错误: 缺少“;”(在“&”的前面) (编译源文件 CustomMdSpi.cpp)
+h:\c++\cplusplus\trader\trader\custommdspi.h(15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 CustomMdSpi.cpp)
+h:\c++\cplusplus\trader\trader\custommdspi.h(15): error C2238: 意外的标记位于“;”之前 (编译源文件 CustomMdSpi.cpp)
+h:\c++\cplusplus\trader\trader\custommdspi.cpp(3): error C2065: “Trader”: 未声明的标识符
+h:\c++\cplusplus\trader\trader\custommdspi.cpp(3): error C2065: “t”: 未声明的标识符
+h:\c++\cplusplus\trader\trader\custommdspi.cpp(3): error C2761: “{ctor}”: 不允许重新声明成员
+h:\c++\cplusplus\trader\trader\custommdspi.cpp(3): error C2448: “CustomMdSpi::{ctor}”: 函数样式初始值设定项类似函数定义
+h:\c++\cplusplus\trader\trader\custommdspi.cpp(3): error C2059: 语法错误:“:”
+h:\c++\cplusplus\trader\trader\custommdspi.cpp(3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+h:\c++\cplusplus\trader\trader\custommdspi.cpp(4): error C2448: “m_treader”: 函数样式初始值设定项类似函数定义
+h:\c++\cplusplus\trader\trader\custommdspi.cpp(9): error C2228: “.insertLogText”的左边必须有类/结构/联合
+  h:\c++\cplusplus\trader\trader\custommdspi.cpp(9): note: 类型是“int”
+h:\c++\cplusplus\trader\trader\custommdspi.h(8): error C2061: 语法错误: 标识符“Trader” (编译源文件 .\GeneratedFiles\Debug\moc_Trader.cpp)
+h:\c++\cplusplus\trader\trader\custommdspi.h(15): error C2143: 语法错误: 缺少“;”(在“&”的前面) (编译源文件 .\GeneratedFiles\Debug\moc_Trader.cpp)
+h:\c++\cplusplus\trader\trader\custommdspi.h(15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 .\GeneratedFiles\Debug\moc_Trader.cpp)
+h:\c++\cplusplus\trader\trader\custommdspi.h(15): error C2238: 意外的标记位于“;”之前 (编译源文件 .\GeneratedFiles\Debug\moc_Trader.cpp)
+h:\c++\cplusplus\trader\trader\custommdspi.h(8): error C2061: 语法错误: 标识符“Trader” (编译源文件 main.cpp)
+h:\c++\cplusplus\trader\trader\custommdspi.h(15): error C2143: 语法错误: 缺少“;”(在“&”的前面) (编译源文件 main.cpp)
+h:\c++\cplusplus\trader\trader\custommdspi.h(15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 main.cpp)
+h:\c++\cplusplus\trader\trader\custommdspi.h(15): error C2238: 意外的标记位于“;”之前 (编译源文件 main.cpp)
+h:\c++\cplusplus\trader\trader\custommdspi.h(8): error C2061: 语法错误: 标识符“Trader” (编译源文件 Trader.cpp)
+h:\c++\cplusplus\trader\trader\custommdspi.h(15): error C2143: 语法错误: 缺少“;”(在“&”的前面) (编译源文件 Trader.cpp)
+h:\c++\cplusplus\trader\trader\custommdspi.h(15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 Trader.cpp)
+h:\c++\cplusplus\trader\trader\custommdspi.h(15): error C2238: 意外的标记位于“;”之前 (编译源文件 Trader.cpp)
+h:\c++\cplusplus\trader\trader\trader.cpp(5): error C2664: “CustomMdSpi::CustomMdSpi(const CustomMdSpi &)”: 无法将参数 1 从“Trader”转换为“const CustomMdSpi &”
+  h:\c++\cplusplus\trader\trader\trader.cpp(6): note: 原因如下: 无法从“Trader”转换为“const CustomMdSpi”
+  h:\c++\cplusplus\trader\trader\trader.cpp(6): note: 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符

@@ -1,0 +1,3 @@
+Trader.qrc|"H:\C++\CPLUSPLUS\Trader\Trader\Trader.qrc" -o ".\GeneratedFiles\qrc_Trader.cpp" --name Trader
+Trader.ui|"H:\C++\CPLUSPLUS\Trader\Trader\Trader.ui" -o ".\GeneratedFiles\ui_Trader.h"
+Trader.h|"H:\C++\CPLUSPLUS\Trader\Trader\Trader.h" -o ".\GeneratedFiles\Debug\moc_Trader.cpp" "-I.\GeneratedFiles" "-I." "-ID:\QT\5.11.2\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-ID:\QT\5.11.2\msvc2017_64\include\QtCore" "-ID:\QT\5.11.2\msvc2017_64\include\QtGui" "-ID:\QT\5.11.2\msvc2017_64\include\QtANGLE" "-ID:\QT\5.11.2\msvc2017_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
