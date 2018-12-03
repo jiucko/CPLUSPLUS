@@ -1,0 +1,8 @@
+﻿  Sort.cpp
+h:\c++\cplusplus\algorithm\sort\sort\sort.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\cplusplus\algorithm\sort\sort\sort.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\cplusplus\algorithm\sort\sort\sort.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\cplusplus\algorithm\sort\sort\sort.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\cplusplus\algorithm\sort\sort\sort.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\cplusplus\algorithm\sort\sort\sort.cpp(96): warning C4018: “<”: 有符号/无符号不匹配
+  Sort.vcxproj -> H:\C++\CPLUSPLUS\Algorithm\Sort\Debug\Sort.exe
